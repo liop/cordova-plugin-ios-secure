@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-secure",
+  "version": "0.0.1",
+  "author": "liop <tmdqq01@hotmail.co.uk> ",
+  "description": "Cordova / PhoneGap Plugin for ios secure",
+  "cordova": {
+    "id": "cordova-plugin-native-secure",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liop/cordova-plugin-ios-secure.git"
+  },
+  "keywords": [
+    "cordova",
+    "secure",
+    "md5",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liop/cordova-plugin-ios-secure/issues"
+  },
+  "homepage": "https://github.com/liop/cordova-plugin-ios-secure#readme"
+}
