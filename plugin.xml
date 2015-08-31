@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-native-transitions" version="0.2.3">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-ios-secure" version="0.2.3">
     <name>iOS Secure</name>
     <author>liop </author>
-    <description>this is a simple ios secure plugin for cordova</keywords>
+    <description>this is a simple ios secure plugin for cordova</description>
+    <keywords>ios,secure,md5</keywords>
     <license>MIT</license>
     <engines>
         <engine name="cordova" version=">=3.0.0" />
